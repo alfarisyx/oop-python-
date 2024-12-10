@@ -8,11 +8,10 @@ z = "hallo python"
 print("nilai string :" + z) #jadi disini kita menampilkan nilai string
 
 #boolean yang hasilnya apakah true / false
-a = True
-b = False
-
-print("nilai boolean a :" + str(a)) 
-print("nilai boolean b :" + str(b))
+x = 5
+y = 0 
+print (bool(x))
+print (bool(y))
 
 #contoh list 
 contohlist = [1,2,3,4,5]
