@@ -1,7 +1,7 @@
 
 class Mobil: # disini saya membuat class Mobil
 
-    def  __init__(self , merk , plat): # saya membuat constructor dan init 
+    def  __init__(self , merk , plat): # saya membuat constructor
         self.merk = merk
         self.plat = plat
 
